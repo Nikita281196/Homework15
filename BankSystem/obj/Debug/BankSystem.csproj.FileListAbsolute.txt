@@ -1,0 +1,5 @@
+C:\Users\Никита\source\repos\AccountInBankSystem\BankSystem\bin\Debug\BankSystem.dll
+C:\Users\Никита\source\repos\AccountInBankSystem\BankSystem\bin\Debug\BankSystem.pdb
+C:\Users\Никита\source\repos\AccountInBankSystem\BankSystem\obj\Debug\BankSystem.csproj.CoreCompileInputs.cache
+C:\Users\Никита\source\repos\AccountInBankSystem\BankSystem\obj\Debug\BankSystem.dll
+C:\Users\Никита\source\repos\AccountInBankSystem\BankSystem\obj\Debug\BankSystem.pdb
